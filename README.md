@@ -11,3 +11,4 @@
 
 将 Name 改成对应的名称即可
 
+![image](https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/README/All.png)
