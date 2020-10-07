@@ -10,3 +10,4 @@ img-url= https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/N
 https://raw.githubusercontent.com/howecheung/QuantumultX-icons/master/Name.png
 
 将 Name 改成对应的名称即可
+
